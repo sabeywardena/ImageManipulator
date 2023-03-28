@@ -1,4 +1,4 @@
-
+# Image Manipulator
 _____________________________________________________________________________________________
 
 IME: Image Manipulation and Enhancement
