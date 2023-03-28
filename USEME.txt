@@ -1,0 +1,23 @@
+
+_____________________________________________________________________________________________
+
+IME: Image Manipulation and Enhancement
+Authored by Sarah Abeywardena
+Authored by Oishani Chatterji
+
+_____________________________________________________________________________________________
+
+IME is an Image based editing software that serves to purpose enhancing and changing photos, with
+current iterations allowing for the brightening and darkening of an image, the flipping of an image,
+and a greyscale visualization of the RGB channels, Luma, Value, and Intensity.
+_____________________________________________________________________________________________
+
+How to Run: GUI ------------------------------
+
+- Click "Open a File" in the Load/Save box to select a file to be loaded into the program
+    - Observe the file now loaded at the top of the GUI in a box.
+- To perform operations, use the drop-down menu at the bottom of the GUI in the Operations box.
+    - Once selected, the operation will automatically apply itself to the image and the histogram.
+- Once satisfied with the changes made, click the "Save a File" button in the Load/Save box to save
+  the file to the file name you want.
+- At any point a new image can be loaded in to start over.
